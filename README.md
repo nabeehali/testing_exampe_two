@@ -30,7 +30,7 @@ This project utilizes the following testing tools and libraries:
 - `test`: Dart testing library for writing tests and assertions.
 
 ## UI Example
-The following demonstrates the result of integration testing. Ensure that you are in the project directory before running this command in the terminal:
+The following demonstrates the automation result of integration testing. Ensure that you are in the project directory before running this command in the terminal:
 ```bash
 flutter drive --target=test_driver/integration.dart
 ```
